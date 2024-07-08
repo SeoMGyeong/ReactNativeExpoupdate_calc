@@ -45,6 +45,7 @@ const styles = StyleSheet.create({
   button: {
     justifyContent: "center",
     alignItems: "center",
+    borderWidth: 1,
   },
   title: {
     fontSize: 50,
